@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # google projets idx setting folder
 .idx/
+
+# vscode setting folder
+.vscode/
